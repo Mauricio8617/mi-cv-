@@ -12,7 +12,11 @@
             text-align: center;
             margin: 0;
             padding: 0;
-C:\Users\mauri\OneDrive\Escritorio\CV´S\VIDEO CV Mauricio Salazar Enero 2025.mp4
+<video width="100%" controls>
+    <source src="C:\Users\mauri\OneDrive\Escritorio\CV´S\VIDEO CV Mauricio Salazar Enero 2025.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+</video>
+
         }
         .container {
             max-width: 600px;
